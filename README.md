@@ -1,11 +1,11 @@
 # Imobiliaria-Hibernate-JPA
-:houses: Projeto desenvolvido como solução para um sistema de cadastro de alugueis de imoveis
+:houses: Projeto desenvolvido como solução para um sistema de cadastro de alugueis de imóveis
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Luis-Felipe-Porto/Imobiliaria-Hibernate-JPA/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-O projeto serviu para realização da estruturação de um backend, fazendo mapeamento entidade relacional com hibernate para gerar relátorio com jasper Report de imovéis pré cadastrando no banco de dados.
+O projeto serviu para realização da estruturação de um backend, fazendo mapeamento entidade relacional com hibernate para gerar relatório com jasper Report de imóveis pré cadastrado no banco de dados.
 
 ## Modelo de Relatório Jasper
 ![Modelo](https://github.com/Luis-Felipe-Porto/Luis-Felipe-Porto/blob/master/assets/Relatorio-Jasper.JPG)
@@ -17,10 +17,11 @@ O projeto serviu para realização da estruturação de um backend, fazendo mape
 - Jasper Report
 - JPA / Hibernate
 - Maven
+- MySQL
 
-## Impementação de Relátorio
+## Impementação de Relatório
 - Clientes Dinâmico
-- Graficos
+- Gráficos
 - Imovéis que tiveram mais locações
 
 # Como executar o projeto
